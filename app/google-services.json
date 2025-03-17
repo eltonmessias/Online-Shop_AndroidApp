@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "965975082899",
+    "project_id": "onlineshop-1-44f24",
+    "storage_bucket": "onlineshop-1-44f24.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965975082899:android:fe6d3526784d306e270a66",
+        "android_client_info": {
+          "package_name": "com.eltonmessias"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPZ8AgSzDH2rBPXdyALZ8K5muYWW7x0Sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
